@@ -24,7 +24,7 @@ class Solution:
         for index, value in enumerate(nums):
             # 值的判断
             if target - value in dict:
-                # 之前存入的kv对, 根据value查找index, 而新的kv就是查找index
+                # 之前存入的kv对的key是value, if 判断就是查找key, i.e. 有没有这个作差得到的value
                 return dict[target-value], index 
             # 因为要用enumerate中的一个查找另一个，所以存入dict的是value, 根据value查找index
             dict[value] = index
