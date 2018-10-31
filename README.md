@@ -1,2 +1,2 @@
-# LeetCode_python
+# LeetCode: Java & Python
 All problems on LeetCode
