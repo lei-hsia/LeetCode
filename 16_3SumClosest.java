@@ -18,7 +18,9 @@ class Solution {
                     j++;
                 else if(sum > target)
                     k--;
-                else{
+                else{  
+		// inside while loop, must have j++, k-- each iteration;
+		// if j >= k, ends loop
                     j++;
                     k--;
                 }
