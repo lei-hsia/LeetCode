@@ -1,2 +1,3 @@
-# LeetCode: Java & Python
+# LeetCode
+C++, Java, Python
 All problems on LeetCode
