@@ -3,3 +3,5 @@ C++, Java, Python
 All problems on LeetCode
 
 Huffman coding: categorize by frequency, then build the tree bottom-up starting from the least frequent to the most. When you have 2 leaves, pile up(only allow 2 children nodes); when the new frequency equals any of the previous sum, move up to the higher layer.
+
+DP essence: If recursive algorithm computes the same subproblems over and over and over again, storing the answer for each subproblem in a table to look up instead of recompute
