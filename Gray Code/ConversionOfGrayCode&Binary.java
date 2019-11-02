@@ -1,4 +1,5 @@
-/*
+/* Source: Wikipedia
+
         The purpose of this function is to convert an unsigned
         binary number to reflected binary Gray code.
  
