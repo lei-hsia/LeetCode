@@ -13,4 +13,4 @@ Useful algo [link](https://cp-algorithms.com/)
 [CS interview](https://www.1point3acres.com/bbs/thread-567013-1-1.html)
 
 
-### stopped updating since May. 2019
+### stopped updates since May. 2019
