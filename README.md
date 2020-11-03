@@ -1,6 +1,5 @@
 # LeetCode
 
-TODO:
 
 741. Cherry Pickup
 
