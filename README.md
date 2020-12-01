@@ -14,3 +14,5 @@ Useful algo [link](https://cp-algorithms.com/)
 Changed made
 
 ### stopped updates since May. 2019
+
+System design additional : https://soulmachine.gitbooks.io/system-design/content/cn/
