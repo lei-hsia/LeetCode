@@ -16,3 +16,5 @@ Changed made
 ### stopped updates since May. 2019
 
 System design additional : https://soulmachine.gitbooks.io/system-design/content/cn/
+
+[Prometheus & JMX underhood](https://github.com/prometheus/jmx_exporter)
