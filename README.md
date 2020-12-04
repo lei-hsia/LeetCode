@@ -18,3 +18,6 @@ Changed made
 System design additional : https://soulmachine.gitbooks.io/system-design/content/cn/
 
 [Prometheus & JMX underhood](https://github.com/prometheus/jmx_exporter)
+
+- [OS1](https://www.zhihu.com/question/22874344/answer/1158044965)
+- Berkeley OS
