@@ -21,3 +21,4 @@ System design additional : https://soulmachine.gitbooks.io/system-design/content
 
 - [OS1](https://www.zhihu.com/question/22874344/answer/1158044965)
 - Berkeley OS
+- [MIT 6.824](https://www.bilibili.com/video/BV1rp4y1k7nL?t=14&p=2)
