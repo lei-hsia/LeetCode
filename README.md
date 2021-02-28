@@ -13,6 +13,9 @@ Useful algo [link](https://cp-algorithms.com/)
 
 Changed made
 
+[dp](https://drive.google.com/drive/folders/1HAUd0oqpNJisD6J1fFF4NpY7VPbI7h47)
+
+
 ### stopped updates since May. 2019
 
 System design additional : https://soulmachine.gitbooks.io/system-design/content/cn/
