@@ -1,4 +1,3 @@
-```java
 // 051
 class Solution {
 public:
