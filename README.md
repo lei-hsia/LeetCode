@@ -1,5 +1,70 @@
 # LeetCode
 
+New materials
+
+- array
+- string
+- hashtable 
+- linkedlist 
+- stack 
+- Heap (priority queue)
+- ordered set
+- dp
+- math 
+- dfs
+- bfs
+- sorting
+- merge sort
+- topological sort
+- greedy
+- tree (binary tree)
+- binary search
+- matrix
+- two pointers
+- bit manipulation
+- backtracking
+- graph
+- simulation
+- prefix sum
+- sliding window
+- union find
+- counting
+- recursion
+- bst
+- trie
+- monotonic stack
+- monotonic queue
+- dc
+- bitmask
+- hash function
+- segment tree
+- interactiveenumeration
+- string matching
+- data stream
+- binary indexed tree
+- rolling hash
+- randomized
+- shortest path
+- combinatorics
+- iterator
+- concurrency
+- number theory
+- bucket sort
+- mst
+- counting sort
+- Quick select
+- suffix array
+- shell
+- line sweep
+- Reservoir sampling
+- strongly connected components
+- eulerian circuit
+- radix sort
+- rejection sampling
+- biconnneted components
+
+---
+#### previous materials
 
 741. Cherry Pickup
 
@@ -15,8 +80,6 @@ Changed made
 
 [dp](https://drive.google.com/drive/folders/1HAUd0oqpNJisD6J1fFF4NpY7VPbI7h47)
 
-
-### stopped updates since May. 2019
 
 System design additional : https://soulmachine.gitbooks.io/system-design/content/cn/
 
