@@ -20,6 +20,13 @@ class TreeNode {
       }
 }
 
+/*
+*   THE important reason why rangeSumBST(root.right, low, high), no "+root.val:" if (root.val < low)
+*   recursion function treated as a blackbox that returns what u need: the range sum.
+*
+*   In branch if (root.val < low): since this root.val should not be added to sum, and rangeSumBST is
+*   already the sum, u shouldn't add root.val to this sum.
+* */
 public class L938 {
     public int rangeSumBST(TreeNode root, int low, int high) {
         if (root == null) return 0;
