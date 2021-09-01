@@ -26,6 +26,11 @@ class TreeNode {
 *   If neither are null, then p and q must be in 2 subtrees, meaning current node is the LCA
 *   If one side goes to null, then p & q would be both in the other side subtree.
 *
+*   (update) 01.Sept.2021:
+*       1. if not a BST, >/<: value comparison never shows
+*       2. just a BT: just recursion
+*       3. recursive function: returns a Node(like this problem), or a value(e.g. rangeSum), or void (traversal)
+*
 * */
 public class L236LCA {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
