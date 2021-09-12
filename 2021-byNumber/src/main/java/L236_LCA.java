@@ -32,7 +32,7 @@ class TreeNode {
 *       3. recursive function: returns a Node(like this problem), or a value(e.g. rangeSum), or void (traversal)
 *
 * */
-public class L236LCA {
+public class L236_LCA {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null || root == q || root == p) return root;
         TreeNode left = lowestCommonAncestor(root.left, p, q);
