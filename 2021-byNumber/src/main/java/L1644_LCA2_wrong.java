@@ -15,6 +15,7 @@
  */
 public class L1644_LCA2_wrong {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        // line19: this search doesn't traverse the entire tree (differ from L1644)
         if (root == null || root == q || root == p) return root;
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p, q);
