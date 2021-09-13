@@ -1,6 +1,15 @@
 /**
  * @author lei
  * @date 09/12/2021 5:17 PM
+ *
+ * One important tip:
+ *
+ *      xxxxx ....
+ *      recursion_function(...)
+ *      yyyyy ....
+ *
+ *      >>> in the above structure, xxxxx is the terminal condition, cuz it's been executed each time recurse happens;
+ *      yyyyy is what u do after all recursion finishes. It's not executed each recursion, but executed after all finishes.
  */
 public class L1644_LCA2_correct {
     private int count = 0;
