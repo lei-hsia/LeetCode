@@ -19,13 +19,12 @@ public class L1644_LCA2_correct {
         return count == 2 ? lca : null;
     }
 
-    private TreeNode LCA(TreeNode root, TreeNode p, TreeNode q) {
-        if (root == null) return null; // traverse the entire tree 放在递归前面的是terminal condition
-
+    public TreeNode LCA(TreeNode root, TreeNode p, TreeNode q) {
+        if (root == null) return null;
         TreeNode left = LCA(root.left, p, q);
         TreeNode right = LCA(root.right, p, q);
 
-        if (root == p || root == q) { // 金comment：放在递归后面的，是递归全部完成之后执行的
+        if (root == q || root == p) {
             count++;
             return root;
         }
