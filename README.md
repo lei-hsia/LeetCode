@@ -76,8 +76,6 @@ Useful algo [link](https://cp-algorithms.com/)
 
 [CS interview](https://www.1point3acres.com/bbs/thread-567013-1-1.html)
 
-Changed made
-
 [dp](https://drive.google.com/drive/folders/1HAUd0oqpNJisD6J1fFF4NpY7VPbI7h47)
 
 
