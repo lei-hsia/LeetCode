@@ -3,7 +3,6 @@
 New materials 
 
 - array
-- string
 - hashtable 
 - linkedlist 
 - stack 
