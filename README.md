@@ -115,3 +115,12 @@ LeetCode101
 [ZJU OS](https://www.bilibili.com/video/BV1Ft411V7JR/?spm_id_from=333.788.videocard.1)
 
 [dp](https://drive.google.com/drive/folders/1HAUd0oqpNJisD6J1fFF4NpY7VPbI7h47)
+
+
+---
+
+### Reflection
+
+backtracking: 
+- 很多选择， 一次只能选一个，要选很多，就是backtracking
+- 参数有一个中间态
